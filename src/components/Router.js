@@ -8,7 +8,7 @@ const Router = ()=> {
     return(
         <BrowserRouter>
             <Switch>
-                <Route exact path = '/' component = {Landing} />
+                <Route exact path = 'https://vitalii-shurkhal.github.io/burgers-shop/' component = {Landing} />
                 <Route path = '/restaurant/:restaurantId' component = {App} />
                 <Route component = {NotFound} />
             </Switch>
