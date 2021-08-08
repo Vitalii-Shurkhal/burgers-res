@@ -2,7 +2,7 @@
 const sampleBurgers = {
   burger1: {
     name: 'Cheeseburger',
-    image: '/images/cheese.jpg',
+    image: './images/cheese.jpg',
     desc:
       'Classic 100% beef steak burger with pickled cucumbers and fresh wheat bun.',
     price: 110,
