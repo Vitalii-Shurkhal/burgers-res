@@ -1,7 +1,7 @@
 {
-  "homepage": "http://Vitalii-Shurkhal.github.io/burgers-shop",
   "name": "hot-burgers",
   "version": "0.1.0",
+  "homepage": "https://Vitalii-Shurkhal.github.io/burgers-res",
   "private": true,
   "dependencies": {
     "autoprefixer-stylus": "^1.0.0",
